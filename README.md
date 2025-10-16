@@ -8,7 +8,6 @@ All results and generated files are included in this repository.
 ---
 
 ## Contents
-
 - **Data Cleaning:** Removes duplicates and splits IMDb data into train/test sets with zero overlap.  
 - **EDA:** Visualizes label distribution and review lengths.  
 - **Model Training:** Fine-tunes BERT and DistilBERT using full, LoRA, and prompt tuning approaches.  
@@ -53,11 +52,11 @@ Open DSA 4213 assignment 3.ipynb in VS Code and execute cells sequentially.
 - toxicity_comparison_summary.csv -
   Summarizes average toxicity scores across all models.
 ---
-4. **Notes**
+## Notes
 - Models are saved in folders like bert_full_finetuned, distilbert_lora_finetuned, etc.
 - Cleaned dataset is saved at ./clean_imdb_dataset.
 - All CSVs are generated automatically when running the notebook.
 
 ---
-5. **Requirements**
+## Requirements
 See requirements.txt for dependencies.
