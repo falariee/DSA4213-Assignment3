@@ -26,7 +26,7 @@ All results and generated files are included in this repository.
 2. **Run the notebook**
 Open DSA 4213 assignment 3.ipynb in VS Code and execute cells sequentially.
 
-3. **Outputs**
+3. **Outputs** (produce when run notebook)
    
 **Quantitative Evaluation**
 - model_evaluation_summary.csv -Contains accuracy, precision, recall, and F1 scores for each model.
