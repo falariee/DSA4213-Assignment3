@@ -47,10 +47,10 @@ Open DSA 4213 assignment 3.ipynb in VS Code and execute cells sequentially.
   Contains misclassified examples for each model, useful for error inspection.
 
 **Toxicity Analysis**
-- *_with_toxicity.csv
+- *_with_toxicity.csv -
   (e.g. bert_full_finetuned_predictions_with_toxicity.csv)
   Adds toxicity scores to each prediction.
-- toxicity_comparison_summary.csv
+- toxicity_comparison_summary.csv -
   Summarizes average toxicity scores across all models.
 ---
 4. **Notes**
