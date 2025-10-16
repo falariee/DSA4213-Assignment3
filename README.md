@@ -54,9 +54,9 @@ Open DSA 4213 assignment 3.ipynb in VS Code and execute cells sequentially.
   Summarizes average toxicity scores across all models.
 ---
 4. **Notes**
-Models are saved in folders like bert_full_finetuned, distilbert_lora_finetuned, etc.
-Cleaned dataset is saved at ./clean_imdb_dataset.
-All CSVs are generated automatically when running the notebook.
+- Models are saved in folders like bert_full_finetuned, distilbert_lora_finetuned, etc.
+- Cleaned dataset is saved at ./clean_imdb_dataset.
+- All CSVs are generated automatically when running the notebook.
 
 ---
 5. **Requirements**
